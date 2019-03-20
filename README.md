@@ -1,0 +1,2 @@
+# block
+blok=ck
