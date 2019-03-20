@@ -1,2 +1,2 @@
-# block
-blok=ck
+blocccc
+a game.
